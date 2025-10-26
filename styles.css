@@ -8,6 +8,10 @@ body {
 	padding: 1em;
 }
 
+img {
+  width : 512px;
+}
+
 li {
 	margin-bottom: 1em;
 }
